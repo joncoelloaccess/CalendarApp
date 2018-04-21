@@ -1,0 +1,41 @@
+.qAeuG.pCcXPe {
+    color: #757575;
+}
+.qAeuG {
+    font-size: 12px;
+    line-height: 12px;
+    text-transform: capitalize;
+    position: relative;
+    z-index: 2;
+}
+.MmhHI {
+    margin-left: 16px;
+}
+
+.KSxb4d.RKLVef {
+    cursor: pointer;
+    position: relative;
+    outline: none;
+}
+.KSxb4d.pCcXPe {
+    color: #9e9e9e;
+}
+
+.KSxb4d {
+    font-size: 24px;
+    line-height: 24px;
+    position: relative;
+    z-index: 2;
+}
+
+.Jmftzc.RIOtYe.cpCWFd, .Jmftzc.gVNoLb {
+    max-width: 100%;
+    white-space: nowrap;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-align-items: center;
+    align-items: center;
+}

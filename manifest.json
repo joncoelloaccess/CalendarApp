@@ -1,0 +1,9 @@
+{
+  "id": "Access.Cloud.SelectHR.Calendar",
+  "name": "Your First Week",
+  "description": "Your diary for your first week",
+  "applicationName": "SelectHR",
+  "category": "Onboarding",
+  "defaultHeight": 250,
+  "minHeight": 110
+}
